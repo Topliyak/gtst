@@ -1,6 +1,8 @@
 
 def func1():
-    pass
+    n = 1 + 2
+
+    return n
 
 
 def func2():
