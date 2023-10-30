@@ -1,0 +1,1 @@
+def func2():\n\treturn 0
