@@ -4,7 +4,10 @@ def func1():
 
 
 def func2():
-    pass
+    for i in 'abcdef':
+        print(i)
+
+    return 'Success'
 
 
 
