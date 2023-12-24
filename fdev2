@@ -1,6 +1,0 @@
-from django.conf import settings
-
-
-def func2():
-	return 1 + 2 == 3
-
